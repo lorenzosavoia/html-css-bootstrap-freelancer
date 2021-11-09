@@ -17,7 +17,6 @@ header{
 
 .jumbotron{
     background-color:#19bc9c;
-    /* height: 500px; */
     padding: 50px;
 }
 
@@ -31,7 +30,6 @@ header{
     height: 10rem;
     background-color: red;
     margin: auto;
-
 }
 
 .square-text{
@@ -49,7 +47,6 @@ header{
     height: 10rem;
     background-color: red;
     margin: 1em;
-
 }
 
 
