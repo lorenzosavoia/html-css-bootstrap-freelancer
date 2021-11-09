@@ -27,6 +27,12 @@ header{
     margin: auto;
 
 }
+.square-img{
+    height: 10rem;
+    background-color: red;
+    margin: auto;
+
+}
 
 .square-text{
     height: 13rem;
