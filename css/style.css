@@ -59,5 +59,28 @@ header{
     height: 5rem;
     background-color: blue;
     margin: 1em;
-    
+}
+
+.square-img-conctact{
+    height: 1rem;
+    background-color: red;
+    margin: .3em 0;
+}
+
+.square-img-message{
+    height: 5rem;
+    background-color: red;
+    margin: .3em 0;
+}
+
+.square-img-button{
+    height: 2rem;
+    background-color: red;
+    margin: .3em 0;
+}
+.footer-top{
+    background-color: #3a546d;
+}
+.footer-bot{
+    background-color:#2c3e50;
 }
