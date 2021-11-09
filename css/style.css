@@ -101,7 +101,7 @@ header{
         display: block;
         align-self: flex-end;
     }
-    .d-flex{
+    .d-flex-end{
         display: flex;
         justify-content: flex-end;
     }
