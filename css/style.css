@@ -32,16 +32,27 @@ img {
     margin: 1em;
 }
 .white-arrow{
-    width: 50px;
+    width: 90px;
     color: white;
     background-color: white;
     height: 3px;
     display: inline-block;
+    margin: auto 0;
+    
+}
+.black-arrow{
+    width: 110px;
+    background-color: black;
+    height: 3px;
+    display: inline-block;
+    margin: auto 0;
+    
 }
  .square-text-portfolio{
-    height: 13rem;
-    background-color: blue;
-    margin: 1em 0;
+    /* height: 13rem;
+    background-color: blue; */
+    /* margin: 1em 0; */
+    
 } 
 
 /* .square-img-portfolio{
@@ -56,8 +67,9 @@ img {
 }
 
 .square-text{
-    height: 13rem;
-    background-color: blue;
+    /* height: 13rem;
+    background-color: blue; */
+    color: white;
 }
 
 
