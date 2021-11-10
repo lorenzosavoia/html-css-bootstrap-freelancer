@@ -10,6 +10,14 @@ header{
 .white{
     color: white;
 }
+.border-white{
+    color: white;
+    border-color: white;
+}
+.green-style{
+    background-color: #19bc9c;
+    border-color: #19bc9c;
+}
 .txt-center{
     text-align: center;
 }
@@ -48,10 +56,11 @@ img {
     margin: auto 0;
     
 }
- .square-text-portfolio{
+ .square-text-about{
     /* height: 13rem;
     background-color: blue; */
     /* margin: 1em 0; */
+    color: white;
     
 } 
 
@@ -83,28 +92,31 @@ img {
     margin: 1em;
 }
 
-.square-text-about{
-    height: 5rem;
+.square-text-download{
+    /* height: 5rem;
     background-color: blue;
-    margin: 1em;
+    margin: 1em; */
 }
 
 .square-img-conctact{
-    height: 1rem;
-    background-color: red;
+    /* height: 1rem;
+    background-color: red; */
     margin: .3em 0;
+    border-bottom: 1px solid #808080ab;
 }
 
 .square-img-message{
-    height: 5rem;
-    background-color: red;
+    /* height: 5rem; */
+    /* background-color: red; */
     margin: .3em 0;
+    
+    border-bottom: 1px solid #808080ab;
 }
 
 .square-img-button{
-    height: 2rem;
+    /* height: 2rem;
     background-color: red;
-    margin: .3em 0;
+    margin: .3em 0; */
 }
 .footer-top{
     background-color: #3a546d;
@@ -131,5 +143,9 @@ img {
     .d-flex-end{
         display: flex;
         justify-content: flex-end;
+    }
+
+    .margin{
+        margin: 1em 0;
     }
 }
