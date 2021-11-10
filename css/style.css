@@ -131,6 +131,41 @@ img {
     display: none;
 }
 
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.square-text-about ul{
+    /* display: inline-block; */
+    padding: 0;
+}
+.square-text-about ul li a i{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 1em;
+    color: white;
+    text-align: center;
+}
+}
+.square-text-about a{
+    color: white;
+}
+.green{
+    color: #19bc9c;
+
+}
+.width50{
+    width: 70%;
+    margin: 0 auto;
+    display: inline-block;
+}
+.copyright{
+    color: white;
+}
+
 @media screen and (max-width:768px) {
 
     .hidden{
