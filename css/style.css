@@ -21,6 +21,7 @@ header{
 .img-hover:hover .play-button-img {
         display: block;
 }
+
 .white{
     color: white;
 }
@@ -183,7 +184,8 @@ a{
     height: 100%;
     background-color: #19bc9c;
     border-radius: 10px;
-    display: none;   
+    display: none; 
+      
 }
   
 .play-button-img {
@@ -195,6 +197,7 @@ a{
     font-size: 4em;
     cursor: pointer;
     display: none;
+    
 }
     
     
